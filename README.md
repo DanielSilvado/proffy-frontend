@@ -1,18 +1,16 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/logo.svg" width="220px" />
+    <img alt="Proffy" title="Proffy" src="logo.svg" width="220px" />
 </h1>
 
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src=".github/layout.png" width="100%">
+  <img alt="Proffy" src="layout.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [React](https://reactjs.org)
+Esse projeto foi desenvolvido com [React](https://reactjs.org)
 
 ## 💻 Projeto
 
@@ -50,34 +48,10 @@ Comece realizando um clone deste projeto, se preferir você também pode baixar 
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/proffy
+$ git clone https://github.com/DanielSilvado/proffy
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd proffy
-```
-
-## Rodando o back end (servidor)
-
-```bash
-# Vá para a pasta da aplicação Front End
-$ cd server
-
-# Instale as dependências
-$ npm install
-# Ou use Yarn se preferir
-$ yarn
-
-# Rode as migrations do banco de dados
-$ npm run knex:migrate
-# Ou use Yarn
-$ yarn knex:migrate
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run start
-# Ou use Yarn se preferir
-$ yarn start
-
-# A aplicação será aberta na porta:3333
 ```
 
 ### Rodando a aplicação web (Front End)
@@ -97,12 +71,6 @@ $ npm run start
 $ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-```
-
-### Rodando a aplicação mobile
-
-```bash
-  ...em breve
 ```
 
 ## 🤔 Como contribuir
@@ -125,12 +93,12 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ por Leonardo Carvalho
+Feito com ♥ por Daniel Silvado Grisólia
 
-<a href="https://www.linkedin.com/in/leonardo-dev/">
-  <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-dev/">
+<a href="https://www.linkedin.com/in/daniel-silvado/">
+  <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silvado/">
 </a>
 
-<a href="https://github.com/leon-carvalho" style="margin-left: 8px;">
-  <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/-GitHub-grey?style=flat&logo=GitHub&logoColor=white&link=https://github.com/leon-carvalho">
+<a href="https://github.com/DanielSilvado" style="margin-left: 8px;">
+  <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/-GitHub-grey?style=flat&logo=GitHub&logoColor=white&link=https://github.com/DanielSilvado">
 </a>
