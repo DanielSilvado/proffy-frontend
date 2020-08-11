@@ -2,11 +2,12 @@
     <img alt="Proffy" title="Proffy" src="logo.svg" width="220px" />
 </h2>
 
-💡Com foco na criação do Layout.
-
 <p align="center">
   <img alt="Proffy" src="layout.png" width="100%">
 </p>
+
+💡Com foco na criação do Layout.
+
 
 ## 🚀 Tecnologias
 
