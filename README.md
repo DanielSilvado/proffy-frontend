@@ -2,6 +2,8 @@
     <img alt="Proffy" title="Proffy" src="logo.svg" width="220px" />
 </h1>
 
+💡Com foco na criação do Layout.
+
 <br>
 
 <p align="center">
@@ -33,8 +35,6 @@ Você pode visualizar o layout do projeto no Figma, ele está dividido em duas v
 Podemos considerar este projeto como sendo divido em três partes:
 
 1. Front End (pasta web)
-
-💡
 
 ### Pré-requisitos
 
