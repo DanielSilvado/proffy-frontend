@@ -6,7 +6,11 @@
   <img alt="Proffy" src="layout.png" width="100%">
 </p>
 
+🚧Status: Em andamento..
+
 💡Com foco na criação do Layout.
+
+
 
 
 ## 🚀 Tecnologias
@@ -47,7 +51,7 @@ Comece realizando um clone deste projeto, se preferir você também pode baixar 
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/DanielSilvado/proffy
+$ git clone https://github.com/DanielSilvado/proffy-frontend
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd proffy
