@@ -1,10 +1,8 @@
-<h1 align="center">
+<h2 align="center">
     <img alt="Proffy" title="Proffy" src="logo.svg" width="220px" />
-</h1>
+</h2>
 
 💡Com foco na criação do Layout.
-
-<br>
 
 <p align="center">
   <img alt="Proffy" src="layout.png" width="100%">
