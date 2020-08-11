@@ -1,44 +1,104 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Proffy" title="Proffy" src="logo.svg" width="220px" />
+</h1>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="Proffy" src="layout.png" width="100%">
+</p>
 
-### `yarn start`
+## 🚀 Tecnologias
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Esse projeto foi desenvolvido com [React](https://reactjs.org)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 💻 Projeto
 
-### `yarn test`
+**Proffy** - Plataforma de estudos online onde alunos podem se conectar com professores.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔖 Layout
 
-### `yarn build`
+Você pode visualizar o layout do projeto no Figma, ele está dividido em duas versões:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- <div style="display:flex;align-items:center;">
+      Layout do projeto web <img src="https://img.shields.io/badge/-Figma-rebeccapurple?&logo=Figma&logoColor=white&link=https://www.notion.so/Layout-Proffy-3d5f45f54ec54ef9b2103565b7cce4e1)" style="margin-left:8px;"/>
+  </div>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- <div style="display:flex;align-items:center;margin-top:12px;">
+      Layout do projeto mobile <img src="https://img.shields.io/badge/-Figma-purple?&logo=Figma&logoColor=white&link=https://www.notion.so/Layout-Proffy-3d5f45f54ec54ef9b2103565b7cce4e1)" style="margin-left:8px;"/>
+  </div>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Como rodar o projeto
 
-### `yarn eject`
+Podemos considerar este projeto como sendo divido em três partes:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Front End (pasta web)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+💡
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Pré-requisitos
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como _VSCode_
 
-## Learn More
+## Clonando o projeto
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Comece realizando um clone deste projeto, se preferir você também pode baixar como um .zip acessando o site do GitHub
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Clone este repositório
+$ git clone https://github.com/DanielSilvado/proffy
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd proffy
+```
+
+### Rodando a aplicação web (Front End)
+
+```bash
+# Vá para a pasta da aplicação Front End
+$ cd web
+
+# Instale as dependências
+$ npm install
+# Ou use Yarn se preferir
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+# Ou use Yarn se preferir
+$ yarn start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+## 🙌 Agradecimentos
+
+- [Time da RocketSeat](https://rocketseat.com.br/)
+- [Diego Fernandes, CTO e Instrutor da Rocketseat](https://github.com/diego3g)
+
+---
+
+Feito com ♥ por Daniel Silvado Grisólia
+
+<a href="https://www.linkedin.com/in/daniel-silvado/">
+  <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-silvado/">
+</a>
+
+<a href="https://github.com/DanielSilvado" style="margin-left: 8px;">
+  <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/-GitHub-grey?style=flat&logo=GitHub&logoColor=white&link=https://github.com/DanielSilvado">
+</a>
