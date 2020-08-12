@@ -11,8 +11,6 @@
 💡Com foco na criação do Layout.
 
 
-
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com [React](https://reactjs.org)
