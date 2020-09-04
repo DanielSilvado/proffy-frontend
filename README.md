@@ -6,7 +6,7 @@
   <img alt="Proffy" src="layout.png" width="100%">
 </p>
 
-Status: Em andamento... 🚧
+Status: Em andamento..
 
 💡Com foco na criação do Layout.
 
